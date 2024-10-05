@@ -1,0 +1,69 @@
+import React from "react";
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "../ui/carouselDouble";
+// import { carouselData } from '@/app/utils/arrays/Home'
+import Image from "next/image";
+import { carouselData } from "@/utils/arrays/Home/carouselData";
+
+const CarouselRow5 = () => {
+  return (
+    <>
+      <Carousel className="w-full ">
+        <CarouselContent className="">
+          {logoArrDouble.map((item, index) => {
+            return (
+              <div className="grid grid-rows-2 gap-6 ">
+                <CarouselItem className=" w-fit  max-md:pr-0 transition-all">
+                  <div className="flex flex-col justify-center items-center gap-4 w-[160px]">
+                    <div className="h-[140px] w-[140px] max-md:w-36 max-md:h-36 transition-all">
+                      <Image
+                        src={item[0]?.image}
+                        width={140}
+                        height={140}
+                        className="rounded-[30px] h-[140px] w-[140px] object-cover max-md:w-36 max-md:h-36"
+                      />
+                    </div>
+                    <p className="text-[16px] text-gray-700 font-bold text-center max-md:text-sm">
+                      {item[0].text}
+                    </p>
+                  </div>
+                </CarouselItem>
+                <CarouselItem className=" w-fit  max-md:pr-0 transition-all">
+                  <div className="flex flex-col justify-center items-center gap-4 w-[160px]">
+                    <div className="h-[140px] w-[140px] max-md:w-36 max-md:h-36 transition-all">
+                      <Image
+                        src={item[1]?.image}
+                        width={140}
+                        height={140}
+                        className="rounded-[30px] h-[140px] w-[140px] object-cover max-md:w-36 max-md:h-36"
+                      />
+                    </div>
+                    <p className="text-[16px] text-gray-700 font-bold text-center max-md:text-sm">
+                      {item[1].text}
+                    </p>
+                  </div>
+                </CarouselItem>
+              </div>
+            );
+          })}
+        </CarouselContent>
+        <CarouselPrevious />
+        <CarouselNext />
+      </Carousel>
+    </>
+  );
+};
+
+const logoArrDouble = carouselData.reduce((acc, current, index, arr) => {
+  if (index % 2 === 0) {
+    acc.push([current, arr[index + 1]]);
+  }
+  return acc;
+}, []);
+
+export default CarouselRow5;

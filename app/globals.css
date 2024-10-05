@@ -1,0 +1,209 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+
+* {
+  scrollbar-width: thin;
+  /* scrollbar-color: transparent transparent; */
+  scrollbar-color: #cecece #f1f1f1;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+/* Existing styles */
+/* Existing styles */
+
+
+.title {
+  margin-bottom: 50px;
+}
+
+.image_wrapper {
+  margin: 0px 0px;
+
+}
+/* 
+.image_wrapper img {
+  width: 80%;
+} */
+
+/* New styles for the Marquee with blur effect */
+.marquee-wrapper {
+  position: relative;
+  overflow: hidden; /* Ensure the gradient effect only appears on the sides */
+  width: 100%; /* Adjust if needed for your layout */
+  mask-image: linear-gradient(
+    to left,
+    hsl(0 0% 0% / 0),
+    hsl(0 0% 0% / 1) 10%,
+    hsl(0 0% 0% / 1) 98%,
+    hsl(0 0% 0% / 0)
+  );
+}
+
+.marquee-container {
+  display: flex; 
+}
+
+.marquee-wrapper::before,
+.marquee-wrapper::after {
+  
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 10%; 
+  pointer-events: none; 
+}
+
+@media screen and (min-width: 1534px) and (max-width: 1760px){
+    .section-width{
+      padding: 0px 9rem;
+    }
+}
+
+.home-banner-clr{
+  background: linear-gradient(rgb(255, 236, 196) 0%, rgb(255, 242, 214) 48.37%, rgb(255, 255, 255) 90.88%);;
+}
+
+/* Ensure the toolbar and its frame are hidden */
+body > #goog-gt-vt,
+.goog-te-banner-frame.skiptranslate,
+.skiptranslate iframe.skiptranslate,
+.goog-te-banner-frame {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0px !important;
+  top: 0px !important;
+  margin-bottom: 2rem;
+}
+
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+/* body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+} */
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  height: 300px !important;
+}
+
+.swiper-pagination-bullets {
+margin-top: 10px;
+text-align: center;
+--swiper-pagination-color: #afb9b7ce;
+--swiper-pagination-bullet-inactive-color: #ccc;
+}
+
+
+/* Custom class to hide the scrollbar for specific section */
+.custom-scrollbar-hide {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+
+.custom-scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+/* .scrollbar-hidden::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+} */

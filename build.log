@@ -1,0 +1,1334 @@
+
+> my-app@0.1.0 build
+> next build
+
+  ▲ Next.js 14.2.5
+  - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/50) ...
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/ardownload". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arcontact". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-question". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/_not-found". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-entertainment". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-child". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-teenager". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arform". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/avatar". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/blogs". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-teacher". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/award". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/buysubscription". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+   Generating static pages (12/50) 
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/dashboard/studentcourse". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/degree". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/change". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/dashboard/studentlivesession". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-child2". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/editprofile". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/educationalbooks". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+   Generating static pages (24/50) 
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/editstudent". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/educationbase". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/kidsreadyforschool". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/innerblogs". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/firsttextbook". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/home2". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/newstudent". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/learning". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/arblogarticle/ar-scientific-game". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/loginstep". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/modals". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/passwordchangev". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/passwordchange2". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+   Generating static pages (37/50) 
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/profilepassword". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/questionanswer". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/points". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/parents". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/schedule". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/preschool". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/startlearning". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546) {
+  digest: '4140799709'
+}
+
+Error occurred prerendering page "/dashboard". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/profile". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/rules". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/signin". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+
+Error occurred prerendering page "/textbook". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: localStorage is not defined
+    at o (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\.next\server\chunks\3770.js:1:26075)
+    at nj (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+    at nM (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58560)
+    at nN (C:\Users\Basim Khalid\Downloads\filmoschool\FilmoSchool\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+ ✓ Generating static pages (50/50)
+
+> Export encountered errors on following paths:
+	/_not-found/page: /_not-found
+	/arblogarticle/ar-child/page: /arblogarticle/ar-child
+	/arblogarticle/ar-child2/page: /arblogarticle/ar-child2
+	/arblogarticle/ar-entertainment/page: /arblogarticle/ar-entertainment
+	/arblogarticle/ar-question/page: /arblogarticle/ar-question
+	/arblogarticle/ar-scientific-game/page: /arblogarticle/ar-scientific-game
+	/arblogarticle/ar-teacher/page: /arblogarticle/ar-teacher
+	/arblogarticle/ar-teenager/page: /arblogarticle/ar-teenager
+	/arblogarticle/page: /arblogarticle
+	/arcontact/page: /arcontact
+	/ardownload/page: /ardownload
+	/arform/page: /arform
+	/avatar/page: /avatar
+	/award/page: /award
+	/blogs/page: /blogs
+	/buysubscription/page: /buysubscription
+	/change/page: /change
+	/dashboard/page: /dashboard
+	/dashboard/studentcourse/page: /dashboard/studentcourse
+	/dashboard/studentlivesession/page: /dashboard/studentlivesession
+	/degree/page: /degree
+	/editprofile/page: /editprofile
+	/editstudent/page: /editstudent
+	/educationalbooks/page: /educationalbooks
+	/educationbase/page: /educationbase
+	/firsttextbook/page: /firsttextbook
+	/home2/page: /home2
+	/innerblogs/page: /innerblogs
+	/kidsreadyforschool/page: /kidsreadyforschool
+	/learning/page: /learning
+	/loginstep/page: /loginstep
+	/modals/page: /modals
+	/newstudent/page: /newstudent
+	/page: /
+	/parents/page: /parents
+	/passwordchange2/page: /passwordchange2
+	/passwordchangev/page: /passwordchangev
+	/points/page: /points
+	/preschool/page: /preschool
+	/profile/page: /profile
+	/profilepassword/page: /profilepassword
+	/questionanswer/page: /questionanswer
+	/rules/page: /rules
+	/schedule/page: /schedule
+	/signin/page: /signin
+	/startlearning/page: /startlearning
+	/textbook/page: /textbook

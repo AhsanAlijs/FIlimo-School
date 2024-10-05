@@ -1,0 +1,2 @@
+import { btnArray ,article , question , teacher , teenager , child1 ,child2 , scientific , entertainment } from "./ArArticle";
+export {btnArray , article , question , teacher , teenager , child1 ,child2 , scientific , entertainment}
